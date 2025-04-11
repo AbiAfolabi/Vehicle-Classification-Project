@@ -9,7 +9,7 @@ This project aims to develop a machine learning model that classifies vehicles a
 
 This project is developed in collaboration with Go Auto, using a dataset compiled by their Business Intelligence Team with data sourced via APIs from the Canadian Black Book (CBB). The dataset includes detailed vehicle listings (both active and sold) across multiple dealerships in Edmonton over the last 30 days. The main objective is to apply Exploratory Data Analysis (EDA) and develop a binary classification model to identify the transmission type (automatic or manual) of each vehicle. This insight can help streamline inventory classification and support targeted marketing strategies tailored to buyer preferences. The final project includes interactive visualizations built in Microsoft Power BI to help stakeholders at Go Auto derive actionable business insights.
 
-**Objective*
+**Objective**
 
 The goal of this project is to:
 - Build a classification model to predict whether a vehicle has an automatic or manual transmission
